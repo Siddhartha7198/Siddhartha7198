@@ -37,8 +37,3 @@ Focused on computational modeling, statistics, machine learning, and data-driven
 
 ---
 
-## 🚀 2026 Goals
-- Build 5 quantitative finance projects
-- Implement pricing models (Black-Scholes, Monte Carlo)
-- Develop a backtesting engine
-- Contribute to open-source finance tools

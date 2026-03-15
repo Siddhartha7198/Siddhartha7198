@@ -4,6 +4,13 @@
 ## 👨‍💻 About Me 
 PhD-trained machine learning engineer specializing in deep learning, generative models, and representation learning. My work focuses on developing scalable neural architectures and machine learning pipelines for modeling complex, high-dimensional data.
 
+---
+
+## 🎯 Current Focus
+I am currently interested in applying advanced AI methods to real-world systems, bridging the gap between research-grade machine learning and practical AI engineering.
+
+---
+
 ## 📊 Transferable Skills 
 - Deep learning model development using PyTorch
 - Representation learning for complex and high-dimensional datasets
@@ -12,11 +19,6 @@ PhD-trained machine learning engineer specializing in deep learning, generative 
 - Reproducible ML experimentation frameworks
 - Scalable GPU-based training pipelines
   
----
-
-## 🎯 Current Focus
-I am currently interested in applying advanced AI methods to real-world systems, bridging the gap between research-grade machine learning and practical AI engineering.
-
 ---
 
 ## 🛠 Technical Stack
@@ -55,10 +57,14 @@ My work sits at the intersection of machine learning research and practical AI e
 - Efficient training and evaluation of deep neural networks
 - Building modular and reproducible ML experimentation pipelines
 
+---
+
 ## ⭐ Featured Projects
 - GAN distribution modeling
 - Autoencoder inverse problems
 - Neural network likelihood estimation
+
+---
 
 ## 🚀 Future Goals
 My long-term goal is to contribute to the development of advanced AI systems that combine strong theoretical foundations with practical impact. In particular, I aim to:
@@ -74,5 +80,5 @@ My long-term goal is to contribute to the development of advanced AI systems tha
  <img src="./profile/stats.svg" alt="Stats" />
 </p>
 
----
+
 

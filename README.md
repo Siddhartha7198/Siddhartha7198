@@ -80,15 +80,16 @@ My long-term goal is to contribute to the development of advanced AI systems tha
  <img src="./profile/stats.svg" alt="Stats" />
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhartha7198\&show_icons=true\&theme=default)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha7198\&layout=compact)
-
 ---
 
-## 🔥 GitHub Activity Streak
+## 🤝 Collaboration & Opportunities
+I am currently interested in opportunities in:
+- Machine Learning Engineering
+- Applied AI Engineering
+- Research Engineering
+- AI for scientific and complex data applications
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Siddhartha7198)
+## 📫 Contact
+Email: siddhartha7198@gmail.com
+Location: Dresden, Germany
 
